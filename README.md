@@ -1,6 +1,6 @@
 # 🍅 Pomodoro Timer
 
-![Demo](demo.gif)
+![Demo](pomodoro-ezgif.com-video-to-gif-converter.gif)
 
 > Terceiro projeto da série **Um projeto por dia** — construído com HTML, CSS e JavaScript puro.
 
